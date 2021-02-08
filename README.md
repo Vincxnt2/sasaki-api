@@ -25,3 +25,6 @@ client.on('message', async (message) => {
 })
 client.login("YOUR_SECRET_BOT_TOKEN");
 ```
+
+## Support
+Add Vincxnt#6969 on Discord or join the official [discord server](https://discord.com/invite/GCvuQ9j)

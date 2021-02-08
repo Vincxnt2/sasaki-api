@@ -1,10 +1,11 @@
 {
   "name": "sasaki-api",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "main": "./src/index.js",
   "scripts": {
     "test": "node ./test/index.js"
   },
+  "keywords": ["gif", "sasaki", "wrapper", "api"],
   "homepage": "https://github.com/Vincxnt2/sasaki-api/",
   "author": "vincxnt2",
   "license": "ISC",
@@ -14,3 +15,4 @@
   "devDependencies": {},
   "description": "A javascript library that makes interacting with the SasakiApi easier"
 }
+
