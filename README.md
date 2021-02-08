@@ -7,7 +7,7 @@ A javascript library that makes interacting with the SasakiApi (WebApi) easier
 ## Examples
 
 ### with Discord 
-- [WithDiscordReadMe]()
+- [WithDiscordReadMe](https://github.com/Vincxnt2/sasaki-api/blob/master/examples/WithDiscord.md)
 ```js
 const { Client, MessageEmbed } = require('discord.js');
 const { ImageClient } = require('sasaki-api');
