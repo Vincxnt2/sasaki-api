@@ -1,0 +1,15 @@
+{
+  "name": "sasaki-api",
+  "version": "1.0.1",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "author": "vincxnt2",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "description": "A javascript library that makes interacting with the SasakiApi easier"
+}
